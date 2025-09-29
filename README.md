@@ -1,2 +1,1 @@
-## Bu sayfa python ogrenmek icin yapilmistir.
-## Eerste dag voor python
+## Bu sayfa python ogrenmek icin yapilmistir
