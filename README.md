@@ -1,1 +1,2 @@
-## Bu sayfa python ogrenmek icin yapilmistir
+## Bu sayfa Giithub hesabini aktif tutmak ve python kodlarini saklamak icin yapilmistir
+
